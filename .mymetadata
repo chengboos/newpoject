@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
+<<<<<<< HEAD
   name="github2"
   id="myeclipse.1599212223201"
   context-root="/github2"
   j2ee-spec="6.0"
   archive="github2.war">
+=======
+  name="github1"
+  id="myeclipse.1599212168082"
+  context-root="/github1"
+  j2ee-spec="6.0"
+  archive="github1.war">
+>>>>>>> 97a9a85c87b65ed81114235da741014ae4ebe2e7
   <attributes>
     <attribute name="webrootdir" value="WebRoot" />
   </attributes>

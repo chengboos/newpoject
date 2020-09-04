@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>github2</name>
+=======
+	<name>github1</name>
+>>>>>>> 97a9a85c87b65ed81114235da741014ae4ebe2e7
 	<comment></comment>
 	<projects>
 	</projects>

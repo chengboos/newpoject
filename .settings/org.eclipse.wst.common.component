@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="github2">
         <wb-resource deploy-path="/" source-path="/WebRoot"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="/github2"/>
         <property name="java-output-path" value="/github2/WebRoot/WEB-INF/classes"/>
+=======
+    <wb-module deploy-name="github1">
+        <wb-resource deploy-path="/" source-path="/WebRoot"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="/github1"/>
+        <property name="java-output-path" value="/github1/WebRoot/WEB-INF/classes"/>
+>>>>>>> 97a9a85c87b65ed81114235da741014ae4ebe2e7
     </wb-module>
 </project-modules>
